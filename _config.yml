@@ -1,10 +1,11 @@
 # Site settings
-title: Zhimei Studio
-SEOTitle: Zhimei Studio的博客 | ZS Blog
+title: DoNotLie Studio
+SEOTitle: DNL Studio的博客 | ZS Blog
 header-img: img/bg_img_onthetable0.jpg
 email: zhimeisui@gmail.com
+email: im.yanjunliu@gmail.com
 description: "Every failure is leading towards success."
-keyword: "ZS, ZS Blog, Personal Studio, work for blockchain technology"
+keyword: "DoNotLie, DNL Blog, Tech Studio, work for Computer Technology"
 url: "http://blockchainstudio.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
